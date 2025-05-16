@@ -3,7 +3,7 @@
 Ein simples, unterhaltsames Web-Spiel nach dem Prinzip von **"Schere, Stein, Papier"** mit Pokémon-Charakteren:  
 **Glumanda (Feuer)**, **Schiggy (Wasser)** und **Bisasam (Pflanze)**.
 
-👉 [Jetzt online spielen](https://DEIN_NUTZERNAME.github.io/feuer-wasser-pflanze)
+👉 [Jetzt online spielen](https://DanielleKami.github.io/Feuer-Wasser-Pflanze)
 
 ---
 
@@ -30,7 +30,7 @@ Ein simples, unterhaltsames Web-Spiel nach dem Prinzip von **"Schere, Stein, Pap
 1. Öffne die `index.html` im Browser  
    **oder**  
 2. Spiele direkt hier:  
-   🔗 [https://DEIN_NUTZERNAME.github.io/feuer-wasser-pflanze](https://DEIN_NUTZERNAME.github.io/feuer-wasser-pflanze)
+   🔗 [https://DEIN_NUTZERNAME.github.io/feuer-wasser-pflanze](https://DanielleKami.github.io/Feuer-Wasser-Pflanze)
 
 ---
 
